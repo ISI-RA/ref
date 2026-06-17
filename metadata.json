@@ -1,0 +1,6 @@
+{
+  "name": "Folio",
+  "description": "Convert your resume into a gorgeous, fully custom hosted portfolio website using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
